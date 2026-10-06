@@ -1,0 +1,5 @@
+* (https://github.com/pyocd/pyOCD/blob/main/docs/semihosting.md)[smeihosting guide]
+* (https://interrupt.memfault.com/blog/a-deep-dive-into-arm-cortex-m-debug-interfaces)[smeihosting guide pt 2]
+* (https://embeddedinventor.com/a-complete-beginners-guide-to-the-gnu-arm-toolchain-part-1/)[Beginner guide to GNU arm]
+* (https://github.com/BogdanTheGeek/semihost-ip/tree/main)[semihost ip]
+* (https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads)[arm-gnu-toolchain-downloads]
