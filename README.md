@@ -5,5 +5,5 @@ Some experiments on semi-hosting via SWD on ARM Cortex-M0
 
 Original Author of this work @BogdanTheGeek
 
-* [https://github.com/BogdanTheGeek/semihost-ip](GitHub repo)
-* [https://bogdanthegeek.github.io/blog/projects/vapeserver/](Blog post)
+* [GitHub repo](https://github.com/BogdanTheGeek/semihost-ip)
+* [Blog post](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
